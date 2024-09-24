@@ -1,0 +1,10 @@
+C:\Users\hello\OneDrive\Desktop\uchyoba\bd_lab\bin\Debug\bd_lab.exe.config
+C:\Users\hello\OneDrive\Desktop\uchyoba\bd_lab\bin\Debug\bd_lab.exe
+C:\Users\hello\OneDrive\Desktop\uchyoba\bd_lab\bin\Debug\bd_lab.pdb
+C:\Users\hello\OneDrive\Desktop\uchyoba\bd_lab\obj\Debug\bd_lab.csproj.AssemblyReference.cache
+C:\Users\hello\OneDrive\Desktop\uchyoba\bd_lab\obj\Debug\bd_lab.Form1.resources
+C:\Users\hello\OneDrive\Desktop\uchyoba\bd_lab\obj\Debug\bd_lab.Properties.Resources.resources
+C:\Users\hello\OneDrive\Desktop\uchyoba\bd_lab\obj\Debug\bd_lab.csproj.GenerateResource.cache
+C:\Users\hello\OneDrive\Desktop\uchyoba\bd_lab\obj\Debug\bd_lab.csproj.CoreCompileInputs.cache
+C:\Users\hello\OneDrive\Desktop\uchyoba\bd_lab\obj\Debug\bd_lab.exe
+C:\Users\hello\OneDrive\Desktop\uchyoba\bd_lab\obj\Debug\bd_lab.pdb
